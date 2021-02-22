@@ -1,0 +1,18 @@
+----> Front <----
+  -> React <-
+    1) yarn create react-app web --template typescript
+     
+     -> Navegação / Rotas <-
+      yarn add react-router-dom
+      yarn add @types/react-router-dom -D
+     -------------------------
+
+_________________
+*****************
+-----------------
+
+
+
+----> Back <-----
+
+________________ 
